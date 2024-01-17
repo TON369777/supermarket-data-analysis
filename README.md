@@ -33,6 +33,6 @@ Points that have considered to reach this conclusion:
 
 #### Is the dataset useful in any sense? Probably only to practice data analysis techniques but not taken seriously.
 
-## The only redeeming aspect of the dataset is examining the time of purchases where it seems to follow some real life logic.
+#### The only redeeming aspect of the dataset is examining the time of purchases where it seems to follow some real life logic.
 ![image](https://github.com/TON369777/supermarket-data-analysis/assets/156875448/d434dd21-e64d-4650-9d59-68df62498395)
 
